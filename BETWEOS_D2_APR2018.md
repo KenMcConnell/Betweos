@@ -1,94 +1,55 @@
-﻿BETWEOS / MCCONNELL / 
+﻿
 
+# B  E  T  W  E  O  S
 
-
-
-
-
-
-
-
-
-
-
-
-
-B  E  T  W  E  O  S
-
-
-
-
-
-
-By
-
-
-
-
-
-
-Ken McConnell
-
-
-________________
-
-
-
-
-
-
-
-
-
-
-
-
+## By Ken McConnell
 
 
 “Love is like war: easy to begin but very hard to stop.”
-
-
-H. L. Mencken
-________________
-PART ONE
-________________
+-- H. L. Mencken
 
 
 
+## PART ONE
 
 
+## Chapter 1
 
 
-
-
-
-Chapter 1
-
-
-A C H E R O N
-
-
-
-
-
+### A C H E R O N
 
 A single ear of blackened flint corn was all that Gaven could pilfer before heading home to the surface. The old, rusted elevators pulled him up with great effort and with little reliability. The lifts all stopped ten stories from the surface. Everything beyond that had rusted to the point of being unusable. He trudged up concrete stairwells the rest of the way. The walk gave him time to change out of his maintenance uniform and into the weatherproof clothes that would protect him from the poisonous air of Acheron.
+
 Before stepping out into the dim, permanently overcast gray skies he picked up a trooper rifle hidden between rusted pipes. The wind howled outside and he could hear the driving rain through the thin metal walls of the alcove. He attached his breather mask and opened the heavy metal door. Home again.
+
 Gaven held the flat trooper rifle close to his torso as he ran into the stiff wind. If he let the heavy weapon fall loose to his side, the gusts would rip it out of his hands, or clobber him senseless with it. The driving rain pushed against his thin form allowing him to lean into its powerful grasp as he ran. His rain slicker’s gray and black splotches were carefully crafted to fool the eye, both human and electronic.
+
 He was sure that he was getting closer to the trench, despite being blinded by the wind. The cool air cut into his squinting eyes, constantly reminding him that he forgot to bring his goggles. Were it not for the respirator mask that he wore he would have found it equally difficult to breath in the toxic atmosphere of Acheron.
+
 Another patch of thick gray fog whipped past, obscuring the trench. Gaven felt the ground give out from under his feet and rolled with the fall against the far wall of the metal pit. Wasting no time, he quickly hoisted the rifle up onto the rim of the trench and squeezed off a few random shots into the distance.
+
 The trooper rifle’s long, flat muzzle produced a brilliant flash of white light that made Gaven's dark eyes shine even as it temporarily blinded him. Several red bolts of energy seared the air above his head in reply from his pursuers. They would be at his position in a matter of seconds, their power-assisted suits of armor unimpeded by the high winds.
+
 Gaven quickly ejected the power clip from the rifle and loaded it with a similarly shaped device that had a tiny numerical readout. A quick toggle on the arming switch and the rifle was converted into a bomb. He carefully wrapped a few layers of tape around the clip. Embedded in the tape were sharp flechettes that turned the bomb into a wicked frag. He positioned the rifle sitting up against the wall of the trench, as if a neglectful trooper had left it behind. Then he moved on down the rusted metal trench until he found a hidden entrance to an access ladder that led him deep below the surface.
+
 The first Roundup Troop to reach the trench, ignored the rifle and continued down on, carefully reading his scanner screen. Soon, all evidence of the runner disappeared from the readouts. He turned around and returned to where his partner was standing, examining an older style rifle. The infra-red signature on the weapon was glowing like a hot iron rod. By the time he realized what was happening, it was too late to react.
+
 The explosion pierced the weak armor at the second trooper’s neck, killing him instantly. The decapitated suit fell backwards, spewing a brown liquid - the result of blood and suit coolant mixing with the toxic atmosphere. The second trooper took most of the frag over the entire face and chest of his suit. He fell to the ground unconscious from the concussion of the blast. His suit automatically called in his status to the control ship, high in orbit of the planet. In seconds, more troopers were dispatched to the area near the industrial wastelands.
 * * *
-Inside the tunnels that ran just under the corrosive planetary surface lived the dredges of society. Holed up in dank rooms that leaked from the acid rain, were the scattered tribes of the Topsiders. Too poor to afford living further underground, they huddled just under the surface in the hollow remains of a bygone industrial age. Hunting for food on the surface or stealing it from the wealthier classes below, they somehow managed to exist, despite the Acheron government’s best efforts to exterminate them.
+Inside the tunnels that ran just under the corrosive planetary surface lived the dredges of society. Holed up in dank rooms that leaked from the acid rain, were the scattered tribes of the topsiders. Too poor to afford living further underground, they huddled just under the surface in the hollow remains of a bygone industrial age. Hunting for food on the surface or stealing it from the wealthier classes below, they somehow managed to exist, despite the Acheron government’s best efforts to exterminate them.
+
 Gaven’s trench tribe hunted in packs on the surface, always on the alert for the ever-present Roundup Troops - military patrols that captured the healthiest of the poor so they could be trained to fight, off-planet in the Poor War. That’s what Gaven’s people called the battle for Betweos; a rogue gas giant that traveled between the two stars of their binary system. The Poor War was so named, because their government used the impoverished topsiders to fuel the war effort. The standard party line was that they were fighting to capture the spoils of their enemy’s planet. But few topsiders actually believed that they would ever be allowed to go to Elysia, were they to win the war. To avoid being eradicated as a social class, they fought their own guerrilla war, against the government’s Roundup Troops.
+
 Ever since he was a small boy, Gaven had run with the pack and learned how to deceive and destroy the Roundup Troops. Over time, attrition had left him in command of the trench tribe. There were just six of them now, trying to feed and defend about a dozen children. Nobody lived much longer than twenty, before disease, hunger or death robbed the greedy Roundup Troops or Ruts as they were called.
+
 Gaven was just eighteen, and he had been their leader for several years now or was it months? Time was difficult to keep track of on the surface. The thick gray clouds, obscured the red disc of Suth One, their red dwarf star. Only drastic temperature changes indicated whether it was day or night. At night the rain changed to snow and only the foolish went outside. Deep in the metal catacombs, the tribe huddled like rodents against the vents that release excess heat from the lower levels. During the day, they stayed below and suffered under the sweltering heat, to avoid being detected by the infra-red scans of the Ruts.
+
 Gaven entered the base camp, removed his breather.  Kids gathered around him as he handed over the colored corn and a single piece of wilted fruit he had stole from his excursion to the lower levels. They tore into the food with unbridled hunger. Eating if it were their last meal.
+
 A thin, wiry boy joined Gaven as he headed deeper into the den. His name was Slik, after the greasy brown hair that constantly fell in his eyes. Slik insisted that the name was given to him for his ability to slip out of any Rut trap. But nobody believed he was as good as his main boy, Gaven. Together they were two thirds of a trio that included a dwarf kid named Grim.
+
 If Gaven was the brains and Slik was the bravado, then Grim was definitely the distempered one. The product of a young woman known to be touched in the head and a man too deformed to ever show his face, Grim seemed to inherit the worst of both of his parents. Standing just over a meter, he crawled on all fours most of the time, howling like a mad dog. He seemed to favor animalistic behavior and was limited to one syllable words that were next to impossible to decipher over his constant drooling.
+
 Despite this, nobody seemed to think he was any different then the next guy. Besides, Grim had some kind of weird internal radar system that made him erupt into enthusiastic conniptions whenever the tribe was in danger of being rooted out by the Ruts. This earned him a degree of respect that few other than Gaven ever commanded.
 As Gaven and Slik entered the dark antechamber, they found Grim working himself up into a mother of a fit over something. Gaven looked at Slik for an answer.
 “Been like that, since ‘ya left,” Slik said.
